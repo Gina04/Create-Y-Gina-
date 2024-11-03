@@ -1,0 +1,10 @@
+
+/* Media query para pantallas pequeñas */
+@media (max-width: 768px) {
+    .logo-company,
+    .checkout-checkin-cart{
+      display: none; /* Ocultar logo, enlaces y carrito en pantallas pequeñas */
+    }
+
+ 
+}
